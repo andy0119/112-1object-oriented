@@ -1,4 +1,3 @@
-
 // Rectangle 子類別實現形狀抽象類別
 class Rectangle extends Shape {
     private double length;

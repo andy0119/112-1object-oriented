@@ -1,0 +1,6 @@
+// Animal.java
+public abstract class Animal1{
+    // 抽象方法
+    public abstract void makeSound();
+}
+!
